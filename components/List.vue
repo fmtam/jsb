@@ -18,7 +18,7 @@
 
 <script>
 import Vue2Filters from 'vue2-filters'
-import BoxItem from '~/components/BoxItem.vue'
+// import BoxItem from '~/components/BoxItem.vue'
 import siteConfig from '~/siteConfig.json'
 
 export default {
@@ -32,7 +32,7 @@ export default {
     }
   },
   components: {
-    BoxItem
+    // BoxItem
   }
 }
 </script>

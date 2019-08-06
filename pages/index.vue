@@ -1,14 +1,6 @@
 <template>
   <section class="posts">
-    <!-- <Swiper :posts="postsFeatured" /> -->
-    <!-- <List v-for="category in categoriesFeatured"
-          :key="category.slug"
-          :posts="posts"
-          :category="category" />
-    <Footer :posts="postsLatest"
-            :tags="tags"
-            :author="author" /> -->
-            sample index
+    sample index
   </section>
 </template>
 
