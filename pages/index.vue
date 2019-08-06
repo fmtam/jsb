@@ -8,6 +8,7 @@
     <Footer :posts="postsLatest"
             :tags="tags"
             :author="author" /> -->
+            sample index
   </section>
 </template>
 
